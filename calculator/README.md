@@ -38,4 +38,4 @@ cmake --build .
 ./calculator
 ```
 
-### [Тестовая версия под Windows x64](/bin/)
+### [Тестовая версия под Windows x64](calculator/bin)
