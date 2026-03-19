@@ -1,6 +1,7 @@
 # Calculator
 
 Кроссплатформенный калькулятор на Qt6 с поддержкой различных числовых типов.
+
 <img src="screenshots/calculator_preview.png"  height="400"/>
 
 ## Возможности
