@@ -38,4 +38,4 @@ cmake --build .
 ./calculator
 ```
 
-### [Тестовая версия под Windows x64](calculator/bin)
+### [Тестовая версия под Windows x64](https://github.com/dartshock/yandex_praktikum_projects/tree/main/calculator/bin)
