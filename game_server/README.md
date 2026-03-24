@@ -55,9 +55,9 @@
 
 * Инструкция тестировалась на Conan 1.66.0.
 
-### Linux
+### Сборка под Linux
 ```
-# mkdir release && cd release
+# mkdir build && cd build
 # conan install .. --build=missing -s build_type=Release -s compiler.libcxx=libstdc++11
 # cmake .. -DCMAKE_BUILD_TYPE=Release
 # cmake --build .
@@ -67,7 +67,8 @@
 ```
 # mkdir build && cd build
 # conan install .. --build=missing -s build_type=Release
-# cmake --build . --config Release
+# cmake .. -DCMAKE_BUILD_TYPE=Release
+# cmake --build .
 ```
 
 ## Запуск сервера
